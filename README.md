@@ -62,6 +62,7 @@ This section will show any installed modules you add from the Storyboard Modules
 - [react-native-push-notifications](modules/push-notifications)
 - [react-native-onboarding](modules/onboarding)
 - [react-native-chat](modules/chat)
+- [django-articles](backend/modules)
 
 # Getting started: Frontend
 
